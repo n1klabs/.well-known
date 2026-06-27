@@ -1,0 +1,19 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["YJ9Q3YS654.com.dailyk.app"],
+        "components": [
+          {
+            "/": "/join",
+            "comment": "Group invite deep link (with ?code=...)"
+          },
+          {
+            "/": "/join/*",
+            "comment": "Group invite deep link (path variants)"
+          }
+        ]
+      }
+    ]
+  }
+}
